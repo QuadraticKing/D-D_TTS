@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\D\u0026D Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{689A131F-6E1F-9908-E89B-7835D056823C}|Assembly-CSharp.csproj|c:\\unityprojects\\d\u0026d simulator\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A131F-6E1F-9908-E89B-7835D056823C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A131F-6E1F-9908-E89B-7835D056823C}|Assembly-CSharp.csproj|C:\\UnityProjects\\D\u0026D Simulator\\assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A131F-6E1F-9908-E89B-7835D056823C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A131F-6E1F-9908-E89B-7835D056823C}|Assembly-CSharp.csproj|C:\\UnityProjects\\D\u0026D Simulator\\assets\\scripts\\settingsmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A131F-6E1F-9908-E89B-7835D056823C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingsmenuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689A131F-6E1F-9908-E89B-7835D056823C}|Assembly-CSharp.csproj|C:\\UnityProjects\\D\u0026D Simulator\\assets\\scripts\\cameraalignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689A131F-6E1F-9908-E89B-7835D056823C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameraalignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\D\u0026D Simulator\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\UnityProjects\\D\u0026D Simulator\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:19:19.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsMenuScript.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\D\u0026D Simulator\\Assets\\Scripts\\SettingsMenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsMenuScript.cs",
+              "ToolTip": "C:\\UnityProjects\\D\u0026D Simulator\\Assets\\Scripts\\SettingsMenuScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingsMenuScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:18:38.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\D\u0026D Simulator\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement.cs",
+              "ToolTip": "C:\\UnityProjects\\D\u0026D Simulator\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:07:28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraAlignment.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\D\u0026D Simulator\\Assets\\Scripts\\CameraAlignment.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraAlignment.cs",
+              "ToolTip": "C:\\UnityProjects\\D\u0026D Simulator\\Assets\\Scripts\\CameraAlignment.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraAlignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:03:54.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
